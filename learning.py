@@ -24,4 +24,7 @@ inputs 2 file paths.
 the first one is a file in which there mathematical equations written in order to be solved.
 the second one is a blank text file.
 reads from first file, evaluates the solutions and writes to second file
+-------------------
+-> includes data validations
+-> not protected (uses 'enum')
 """
